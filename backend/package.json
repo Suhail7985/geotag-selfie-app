@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "exiftool-vendored": "^31.3.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3",
+    "multer": "^2.0.2"
+  }
+}
